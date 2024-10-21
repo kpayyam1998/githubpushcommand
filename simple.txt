@@ -9,6 +9,16 @@
 ```bash
    git init
    git add . 
+   git commit -m "firstCommit"
+   Create repo in github
+   git remote add origin https://github.com/kpayyam1998/githubpushcommand.git
+   git push --set-upstream  origin master
+
+   # Above code basic sometimes if we make any changes tmrw 
+   git status
+   
+
+
    git branch (Which branch we are using)
    git checkout -b main (Switch to main branch)
 
