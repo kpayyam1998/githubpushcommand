@@ -16,7 +16,11 @@
 
    # Above code basic sometimes if we make any changes tmrw 
    git status
-   
+   git add .
+   git status
+   git commit -m "new changes"
+   git push (First time only we have to mention 2nd time we can directly push)
+
 
 
    git branch (Which branch we are using)
