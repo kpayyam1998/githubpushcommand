@@ -21,7 +21,15 @@
    git commit -m "new changes"
    git push (First time only we have to mention 2nd time we can directly push)
 
+   Create new branch
 
+   git branch -m kp ->new branch creation 
+
+   git checkout -> this command will give Which branch we are in
+   git add .
+   git commit -m "description"
+   git push -u origin branch_name 
+   then we can raise PR
 
    git branch (Which branch we are using)
    git checkout -b main (Switch to main branch)
